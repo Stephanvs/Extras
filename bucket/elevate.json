@@ -1,0 +1,16 @@
+{
+  "version": "1.1",
+  "description": "Start programs elevated from a batch file",
+  "homepage": "http://www.winability.com/elevate",
+  "license": {
+      "identifier": "Freeware",
+      "url": "https://www.winability.com/end-user-license-agreement/?elevate"
+  },
+  "url": "https://www.winability.com/files/Elevate11.zip",
+  "hash": "146186ad58ff9bd55bab7aba5f573a2f6316841221d5557bbb1265e98e4f696b",
+  "bin": [
+      "elevate.exe",
+      "elevate64.exe"
+  ]
+}
+
